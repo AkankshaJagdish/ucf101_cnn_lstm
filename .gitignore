@@ -1,0 +1,5 @@
+/.vscode
+/data/UCF101
+/data/UCF101-frames
+/data/ucfTrainTestlist
+/data/data.h5
